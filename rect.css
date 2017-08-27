@@ -1,0 +1,23 @@
+div {
+    text-align: left;
+    font-size: 20px;
+}
+
+#rect {
+    width: 0px;
+    height: 0px;
+    /* background: pink; */
+    border-top: 100px solid darkgreen;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid lightblue;
+    border-left: 100px solid yellow;
+}
+
+#rect2 {
+    width: 0px;
+    height: 0px;
+    /* background: pink; */
+    border-right: 100px solid transparent;
+    border-bottom: 150px solid lightblue;
+    border-left: 100px solid gold;
+}
